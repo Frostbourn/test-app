@@ -1,5 +1,5 @@
 import PocketBase from "pocketbase";
-import { Test } from "../../components/Test";
+import Test from "../../components/Test";
 import { serialize } from "next-mdx-remote/serialize";
 import codeFrontmatter from "remark-code-frontmatter";
 import { ComponentMeta, ComponentStory } from "@storybook/react";
